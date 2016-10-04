@@ -1,6 +1,6 @@
 # ember-cli-piechart
 
-This README outlines the details of collaborating on this Ember addon.
+This README outlines the details of collaborating on this Ember Addon.
 
 # Usage
 
@@ -30,7 +30,7 @@ which will render a pie chart in a canvas like this:
 
 ## Installation
 
-* `git clone <repository-url>` this repository
+* `git clone <repository-url>`
 * `cd ember-cli-piechart`
 * `npm install`
 * `bower install`
@@ -38,11 +38,11 @@ which will render a pie chart in a canvas like this:
 ## Running
 
 * `ember serve`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
+* Visit your app at [http://localhost:4200](http://localhost:4200)
 
 ## Running Tests
 
-* `npm test` (Runs `ember try:each` to test your addon against multiple Ember versions)
+* `npm test` (Runs `ember try:each` to test your Addon against multiple Ember versions)
 * `ember test`
 * `ember test --server`
 
@@ -50,4 +50,4 @@ which will render a pie chart in a canvas like this:
 
 * `ember build`
 
-For more information on using ember-cli, visit [http://ember-cli.com/](http://ember-cli.com/).
+For more information on using ember-cli, visit [http://ember-cli.com/](http://ember-cli.com/)
